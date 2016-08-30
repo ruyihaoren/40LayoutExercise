@@ -26,7 +26,7 @@
 
 #### 示例图
 
-![image][https://github.com/dodoru/40LayoutExercise/blob/master/templates/img/sp_12.png?raw=true]
+![image](https://github.com/dodoru/40LayoutExercise/blob/master/templates/img/sp_12.png?raw=true)
 
 
 ## 练习
