@@ -15,8 +15,19 @@
   		<div id="extra">Extra stuff</div>
   		<div id="footer">Footer</div>
 	</div> 
-	
-目前完成了1-20的文档。
+
+
+目前完成了1-40的文档。
+
+使用须知:
+    1, 使用  templates/index.html 做为导航页
+    2, 点击左侧 标记顺序码,可以动态加载 相应的的CSS, 同时改变页面的布局。
+    3, 自行练习只需 修改 templates/css/co{id}.css 文件,点击对应的按钮{id}即可加载结果。
+
+#### 示例图
+
+![image][https://github.com/dodoru/40LayoutExercise/blob/master/templates/img/sp_12.png]
+
 
 ## 练习
 
